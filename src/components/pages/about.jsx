@@ -1,4 +1,4 @@
-import NavigationLayouts from "../layouts/nav";
+import NavigationLayouts from "../fragments/nav";
 
 const About = () => {
     return (
